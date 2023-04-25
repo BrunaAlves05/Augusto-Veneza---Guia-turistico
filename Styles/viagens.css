@@ -1,0 +1,12 @@
+.viagens {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.viagens img {
+    height: 60vh;
+
+}
+.imagem_maior{
+    width: 95vh;
+}

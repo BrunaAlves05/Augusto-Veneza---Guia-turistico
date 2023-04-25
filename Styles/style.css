@@ -1,0 +1,13 @@
+@import url(header.css);
+@import url(home.css);
+@import url(slide.css);
+@import url(aboutUs.css);
+@import url(viagens.css);
+@import url(contactUs.css);
+@import url(footer.css);
+
+body {
+    background-color: #D6E4E5;
+    background: linear-gradient(45deg, #E3EFEF, #FFB84C) ;
+    font-family: 'Satisfy', cursive;
+}

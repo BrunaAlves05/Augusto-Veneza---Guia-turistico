@@ -1,0 +1,24 @@
+.cabecalho {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 3em;
+    color: #FFF;
+}
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+}
+.links__container a {
+    text-decoration: none;
+    color: #FFF;
+    padding: 0 .5em;
+    font-family: 'Gloock', serif;
+}
+
+.links__container a:hover {
+    color: #93BFCF;
+    border-bottom: 2px solid #6096B4;
+    padding-bottom: 1.2em;
+}

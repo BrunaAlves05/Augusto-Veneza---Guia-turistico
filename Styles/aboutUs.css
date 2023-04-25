@@ -1,0 +1,22 @@
+.AboutUs__container {
+    margin: 10em 0 3em 0;
+}
+h3 {
+    font-size: 3em;
+    text-align: center;
+    padding: 1.5em 0;
+}
+.AboutUs {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.AboutUs p {
+    width: 30%;
+    font-size: 1.7em;
+    text-align: justify;
+}
+.AboutUs img {
+    width: 40vh;
+    border-radius: 70%;
+}
